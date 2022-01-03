@@ -37,4 +37,4 @@ async def on_message(message):
         await message.channel.send('SOLD OUT: \n' + BubbleTea(milktea_products, milktea_price))
 
 
-client.run('OTIxNjE5OTU1Njg0ODg0NDkx.Yb1jeA.x8jpCjwCFep8BIr6p_ZiqqCcEu0')
+client.run('TOKEN')
